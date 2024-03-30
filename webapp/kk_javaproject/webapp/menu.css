@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+.menu {
+	
+	width: 16em;
+	margin:0 auto;
+	padding-right: 20%;
+	
+}
+
+
+.menu_in{
+	
+	display: block;
+	text-align:center;
+	font-size: 190%;
+	width:400px;
+	height:100px;
+	
+    font-weight: bold;
+    color:black;
+    border: solid 3px #6091d3;
+    border-radius: 10px;
+    background-color: #6091d3;
+    text-decoration: none;
+    
+   
+};
+
+
+
+/**
+padding: 0.5em 1em;
+    margin: 2em 0;
+
+a{ display: block;
+	text-align:center;
+	font-size: 190%;
+	width:400px;
+	height:100px;
+	padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    color: #6091d3;
+    border: solid 3px #6091d3;
+    border-radius: 10px;
+
+ }
+ */
+
+
+
+
+
